@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Rhode Island Red",
+    "description": "An American breed of domestic chicken."
+  },
+  {
+    "id": 2,
+    "name": "Leghorn",
+    "description": "A breed of chicken originating in Tuscany, Italy."
+  }
+]

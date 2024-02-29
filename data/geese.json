@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Greylag Goose",
+    "description": "A species of large goose in the waterfowl family Anatidae."
+  },
+  {
+    "id": 2,
+    "name": "Canada Goose",
+    "description": "A large wild goose species with a black head and neck."
+  }
+]

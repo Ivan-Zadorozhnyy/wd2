@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Mallard",
+    "description": "A dabbling duck found throughout the Northern Hemisphere."
+  },
+  {
+    "id": 2,
+    "name": "Pekin",
+    "description": "A domesticated duck used primarily for egg and meat production."
+  }
+]
